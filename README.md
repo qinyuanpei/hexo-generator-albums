@@ -1,2 +1,1 @@
-# hexo-generator-albums
-a album generation plugin for hexo
+# hexo-generator-portfolio
