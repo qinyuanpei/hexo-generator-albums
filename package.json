@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-albums",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "a albums generation plugin for Hexo",
   "main": "index.js",
   "directories": {
